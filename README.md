@@ -156,7 +156,7 @@ jupyter notebook <TASK_NOTEBOOK>.ipynb
 
 **Abdul Wahab**
 AI/ML Engineering Intern – DevelopersHub Corporation
-GitHub: [@Abdul-Wahab1010](https://github.com/Abdul-Wahab1010)
+GitHub: [Muhammad_Talha+000](https://github.com/Muhammad-Talha-000)
 
 ---
 
